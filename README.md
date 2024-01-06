@@ -1,2 +1,1 @@
-# CursoHenry
-Repositorio de prueba M2 Henry
+Prueba de Repositorio M2 Henry y clonarlo desde Github a escritorio local
